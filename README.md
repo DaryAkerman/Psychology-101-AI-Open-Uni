@@ -134,7 +134,7 @@ Instead of uploading the entire PDF on every question, the app:
 
 > Ask a question in Hebrew → get a streamed, formatted answer with source pages
 
-![demo screenshot](https://via.placeholder.com/800x450?text=Screenshot+coming+soon)
+![demo screenshot](demo.png)
 
 ---
 
