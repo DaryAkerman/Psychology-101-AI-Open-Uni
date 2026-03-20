@@ -1,0 +1,30 @@
+# ── Sensitive / personal ──────────────────────────────
+.env
+.file_id_cache.json
+
+# ── Large generated files (run preprocess.py locally) ─
+*.pdf
+pages_data.json
+embeddings.npy
+
+# ── Python ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── OS / editor ───────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+.claude
